@@ -10,4 +10,9 @@ public class App2
     {
         System.out.println( "Hello World!" );
     }
+    
+    //adding new test case 
+    public static void timepasss() {
+    	System.out.println("Just learning");
+    }
 }
